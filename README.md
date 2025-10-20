@@ -79,3 +79,7 @@ Add “Why flagged?” explanations (feature importance)
 Train transformer-based model (BERT/DistilBERT)
 
 Dataset used: Phishing Email Dataset on Kaggle
+
+## Dataset
+This project uses the [Phishing Email Dataset](https://www.kaggle.com/datasets/subhajournal/phishingemails) from Kaggle.  
+Download it manually and place in the `data/` folder before running the training pipeline.

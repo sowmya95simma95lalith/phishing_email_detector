@@ -6,8 +6,8 @@ venv/
 __pycache__/
 *.pyc
 
-# Ignore model cache files (but keep saved models you want in Git)
-*.pkl
+# # Ignore model cache files (but keep saved models you want in Git)
+# *.pkl
 
 # Ignore system files
 .DS_Store
